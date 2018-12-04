@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.felixpy.codetrial.gateway",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "com.felixpy.codetrial.gateway",
+    "packageFolder": "com/felixpy/codetrial/gateway",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGY1ZmU5MmJiMGI0M2UwYTY2ZmNlZTY2Yjk1MzgwZjgzZTlhZWIwMTdmNmZiNGRlZDQ1NGQ4MDNjZDQyM2EwNzE4OWMzMzRjYmUxNzllOTU4NDcxMzM2YmUxN2U0ZTQxN2NmMWEyMGFiMjQ3YmY2YWVmZWIxN2VmMmM4OWExMmE=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "zh-cn",
+      "zh-tw"
+    ]
+  }
+}
